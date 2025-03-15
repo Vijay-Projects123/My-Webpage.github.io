@@ -1,0 +1,105 @@
+#button{
+    height: 40px;
+    width: 90px;
+    background-color: #FF6C22;
+    color: white;
+    border:2px ridge #FF6C22;
+    padding-bottom: 8px;
+}
+#fst,#button{
+    text-decoration: none;
+    position: relative;           
+    top: -58px;
+    font-size: 16px;
+    color: white;
+}
+#fst1{
+    text-decoration: none;
+    position: relative;           
+    top: -53px;
+    font-size: 16px;
+}
+.set{
+    margin-left: 1000px;
+    margin-top: -400px;
+    margin-right: 70px;
+    background-color: black;
+}
+body{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.u4jXv7i7572TWpXAtOonmAHaFj&pid=Api&P=0&h=180");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+#button1{
+    position: relative;
+    width: 250px;
+    margin-left: 90px;
+    /* margin-top: 75px; */
+    height: 42px;
+    font-size: large;
+    font-style: inherit;
+    background-color: white;
+    color: #FF6C22;
+    margin-top: 32px;  
+    font-weight: bold;          
+}
+#email,#password{
+    background-color: black;
+    border-bottom: 2px ridge #FF6C22;
+    width: 325px;
+    height: 25px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+}
+#email::placeholder,#password::placeholder{            
+    color: white;
+    
+}
+.fsts::placeholder{
+    color: black;
+}
+.fsts:focus{
+    color: black;
+}
+.pre{
+    padding-left: 55px;
+}
+.login{
+    position: relative;
+    width: 250px;
+    margin-left: 90px;
+    height: 45px;
+    font-size: 20px;
+    font-style: inherit;
+    background-color: #FF6C22;
+    color: black;
+    margin-top: 12px;  
+    font-weight: bold; 
+}
+#facebook,#instagram,#youtube,#google{
+    color: white; 
+    text-decoration: none;
+    font-size: 40px;
+
+}
+#br1{
+    color: #FF6C22;
+}
+#but{
+    background-color: #FF6C22;
+    color: black;
+    font-weight: bold;
+    width: 150px;
+}
+.sign:hover{
+    color: green;
+}
+.sign{
+    color: #FF6C22;
+    text-decoration: none;
+    padding-left: 30px;
+}

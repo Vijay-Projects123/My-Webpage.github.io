@@ -1,0 +1,46 @@
+#button1,.login,.set,#button,#but{
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.h1{
+    color: white;
+    
+}
+.h2{
+    color: #FF6C22;
+
+}
+.h3{
+    color: white;
+}
+.h1,.h2,.h3{
+    font-size: 50px;
+}
+.pre{
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+}
+#button1:hover{
+    background-color: #22092C;
+}
+.login:hover{
+    background-color: #86A789;
+}
+#but:hover{
+    background-color: #419197;
+}
+#button:hover{
+    background-color: #04364A;
+    border: 2px solid #04364A;
+}
+    
+    
+    
+    
+    /* border-radius: 10px; Adjust the value to control the amount of curvature */
+      /* padding: 10px 20px;  Optional: Add padding for better appearance */
+      /* font-size: 16px;    Optional: Adjust the font size */
